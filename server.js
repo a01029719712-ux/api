@@ -98,3 +98,4 @@ app.get('/:slug', async (req, res) => {
 
 
 app.listen(CONFIG.PORT, () => console.log(`🔥 SERVER EN PUERTO ${CONFIG.PORT}`));
+
